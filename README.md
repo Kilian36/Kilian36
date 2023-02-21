@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kilian36
-- 👀 I’m interested in software, machine learning and blockchain, i'd share knowledge and learn from others.
-- 🌱 I’m currently learning blcokchain, solidity, electronics and telecomunications, machine learning
+- 👀 I’m interested in software, artificial intelligence and blockchain, i'd share knowledge and learn from others.
+- 🌱 I’m currently studying Artificial Intelligence at ALMA MATER STUDIORUM (University of Bologna).
 - 💞️ I’m looking to collaborate on interesting projects regarding software development, I'll share here my projects and code hoping it'll be useful for you
 - 📫 How to reach me kilian.lecreurer@studio.unibo.it or tizianokil@gmail.com
 
