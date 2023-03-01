@@ -7,10 +7,10 @@
 Hello everyone, my name's Kilian Le Creurer and i'm 21. 
 I started a bachelor degree in Electronic and Telecommunications degree in ALMA MATER STUDIORUM ( University of Bolougne) in 2019, I graduated in July 2022 with a grade of 107/110.
 
-I'm actually studying for a master degree here in Bolougne, which regards Infromatic and Artificial Intelligente topics.
+I'm actually studying for a master degree here in Bolougne, which regards Artificial Intelligente and Computer science topics.
 
 
-I want to create a network of student to share projects, knowledge, ideas, tips 
+I would like to create a network of student to share projects, knowledge, ideas, tips 
 regarding the digital and software world. If you want to join please contact me.  
 
 <!---
