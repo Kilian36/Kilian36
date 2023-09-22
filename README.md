@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects regarding software development, I'll share here my projects and code hoping it'll be useful for you
 - 📫 How to reach me kilian.lecreurer@studio.unibo.it or tizianokil@gmail.com
 
-Hello everyone, my name's Kilian Le Creurer and i'm 21. 
+Hello everyone, my name's Kilian Le Creurer and i'm 23. 
 I started a bachelor degree in Electronic and Telecommunications degree in ALMA MATER STUDIORUM ( University of Bolougne) in 2019, I graduated in July 2022 with a grade of 107/110.
 
 I'm actually studying for a master degree here in Bolougne, which regards Artificial Intelligente and Computer science topics.
