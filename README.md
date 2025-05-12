@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @Kilian36
-- 👀 I’m interested in software, artificial intelligence, i'd share knowledge and learn from others.
-- 🌱 I’m currently studying Artificial Intelligence at ALMA MATER STUDIORUM (University of Bologna).
-- 💞️ I’m looking to collaborate on interesting projects regarding software development, I'll share here my projects and code hoping it'll be useful for you.
-- 📫 How to reach me kilian.lecreurer@studio.unibo.it or tizianokil@gmail.com
+👋 Hi, I’m @Kilian36
+👀 I’m passionate about software and artificial intelligence. I enjoy sharing knowledge and learning from others.
+🌱 I’m currently working as an Embedded Deep Learning Engineer at Datalogic S.p.A.
+💞️ I’m open to collaborating on interesting software development projects. I’ll be sharing my work and code here in the hope it will be useful to others.
+📫 You can reach me at kilian.lecreurer@studio.unibo.it or tizianokil@gmail.com
 
-Hello everyone, my name's Kilian Le Creurer and i'm 23. 
-I started a bachelor degree in Electronic and Telecommunications degree in ALMA MATER STUDIORUM ( University of Bolougne) in 2019.
+Hello everyone!
+My name is Kilian Le Creurer, I’m 24 years old and I hold a Master’s degree in Artificial Intelligence, earned with full marks (110/110 cum laude).
 
-I'm actually studying for a master degree here in Bologna, which regards Artificial Intelligente and Computer science topics.
-
-I would like to create a network of student to share projects, knowledge, ideas, tips 
-regarding the digital and software world. If you want to join please contact me.  
-
-<!---
-Kilian36/Kilian36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m looking to build a network of like-minded people to exchange ideas, share projects, and grow together in the world of software and digital innovation.
+If you're interested, feel free to reach out!
